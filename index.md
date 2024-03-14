@@ -1,6 +1,6 @@
 ---
-title: Saludos a toda la gente
+title: MI PRIMERA PÁGINA GUAU
 ---
 
-# Hola!
-Esta es una prueba de como hacer una página web para mi blog
+HOLA
+GRACIAS
